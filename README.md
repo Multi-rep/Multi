@@ -15,4 +15,4 @@ MG.killergamer
 NotTodayYT
 MxKay_.
 # 🙋‍♂️ Support
-The Discord server invite link is [Here!](https://discord.gg/9HUrZHgNKy)
+The Discord server invite link is [Here!](https://discord.gg/sYqCVVgCgP)
