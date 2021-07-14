@@ -1,7 +1,7 @@
 # 🎉 Multi
 Multi is a **Multi** purpose bot for Discord.
 # 🔗 Invitation
-To invite Multi please click [This link](https://dsc.gg/multibotdev)
+To invite Multi please click [This link](https://dsc.gg/multibotdevs)
 # 💻 Setup
 Multi bot's prefix is `m!` to setup please give him all required roles in Dicord!.
 # 🤵 Devs
